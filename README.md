@@ -18,7 +18,7 @@ This project presents an interactive chatbot interface inspired by traditional K
 ### The Problem (that doesn't exist)
 Most chatbot interfaces today lack cultural personality and emotional relatability. Our project solves this by designing a regionally inspired Malayalam-style AI bot that brings humor, familiarity, and local flavor to digital conversations—turning a typically bland user experience into something entertaining and engaging
 
-### The Solution (that nobody asked for)
+### The Solution (that nobody asked for) 
 We developed a culturally themed AI chatbot interface that mimics the tone, expressions, and personality of a typical humorous Malayalam-speaking “uncle” character. By combining regional language flair, animated visuals, and a responsive design, the solution offers users a fun, emotionally engaging, and relatable interaction experience—making digital communication more lively and locally resonant.
 
 ## Technical Details
